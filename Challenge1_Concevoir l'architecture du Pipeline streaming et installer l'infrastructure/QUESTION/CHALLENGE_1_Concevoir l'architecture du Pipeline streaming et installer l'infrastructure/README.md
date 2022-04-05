@@ -1,4 +1,4 @@
-# Challenge 3 - EvilNet rules the world
+# Challenge 1 - EvilNet rules the world
 It’s year 2050, cities are now evaluated based on their citizens social media feeds 😱
 
 You have been hired at EvilNet, the corporation controlling the world, to provide realtime social media insights.
